@@ -7,6 +7,7 @@
     "node": "v22.14.0"
   },
   "scripts": {
+    /*para escolher qual dos 2 executar tem que instalar o "npm i -g ntl ou no ubuntu sudo npm install -g ntl" e depois digitar ntl*/
     "cypress:web": "npx cypress open",
     "cypress:headless": "npx cypress run --browser electron"
   },
